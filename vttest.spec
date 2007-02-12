@@ -1,5 +1,5 @@
 Summary:	Test VT100-type terminal
-Summary(pl.UTF-8):   Narzędzie do testowania terminala typu VT100
+Summary(pl.UTF-8):	Narzędzie do testowania terminala typu VT100
 Name:		vttest
 Version:	20051020
 Release:	1
