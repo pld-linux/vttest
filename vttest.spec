@@ -1,5 +1,5 @@
 Summary:	Test VT100-type terminal
-Summary(pl):	NarzÍdzie do testowania terminala typu VT100
+Summary(pl.UTF-8):   Narzƒôdzie do testowania terminala typu VT100
 Name:		vttest
 Version:	20051020
 Release:	1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is a program to test the compatibility (or to demonstrate the
 non-compatibility) of so-called "VT100-compatible" terminals.
 
-%description -l pl
-Ten program s≥uøy do testowania kompatybilno∂ci (lub demonstrowania
-niekompatybilno∂ci) tak zwanych terminali "zgodnych z VT100".
+%description -l pl.UTF-8
+Ten program s≈Çu≈ºy do testowania kompatybilno≈õci (lub demonstrowania
+niekompatybilno≈õci) tak zwanych terminali "zgodnych z VT100".
 
 %prep
 %setup -q
