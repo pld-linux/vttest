@@ -1,12 +1,12 @@
 Summary:	Test VT100-type terminal
 Summary(pl.UTF-8):	Narzędzie do testowania terminala typu VT100
 Name:		vttest
-Version:	20051020
+Version:	20071216
 Release:	1
 License:	MIT-like
 Group:		Applications
 Source0:	ftp://invisible-island.net/vttest/%{name}-%{version}.tgz
-# Source0-md5:	9a516ae104867bbdb8ebd53df5ec5c55
+# Source0-md5:	490cebc85e531c833dcf14c32790184b
 URL:		http://dickey.his.com/vttest/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
